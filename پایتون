@@ -1,0 +1,7 @@
+echo "# txt-The-best-things-in-life-free-if-expensive-not-in-txt-print-No-expensive-is-NOT-present.-" >> README.md git 
+init 
+git add mohammadreza.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/mohammadrezaabdollahi269/txt-The-best-things-in-life-are-free-if- گران قیمت-نه-در-txt-print-No-expensive-is-NOT-present.-.git
+ git push -u origin main
